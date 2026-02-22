@@ -90,7 +90,7 @@ Secure full-stack Spring Boot application with OAuth2 authentication, role-based
 </p>
 
 <p>
-<a href="YOUR_FRESHNET_REPO_LINK">🔗 View Repository</a>
+<a href="[YOUR_FRESHNET_REPO_LINK](https://github.com/Wantstocode/FreshNet)">🔗 View Repository</a>
 </p>
 
 </td>
@@ -111,7 +111,7 @@ Event-driven microservices architecture with Kafka, Eureka, API Gateway, Keycloa
 </p>
 
 <p>
-<a href="YOUR_MICROSERVICE_REPO_LINK">🔗 View Repository</a>
+<a href="[YOUR_MICROSERVICE_REPO_LINK](https://github.com/Wantstocode/E-commerce-microservices-application)">🔗 View Repository</a>
 </p>
 
 </td>
@@ -134,7 +134,7 @@ Spring Boot backend service identifying toll plazas between Indian pincodes usin
 </p>
 
 <p>
-<a href="https://github.com/Wantstocode/TollPlazaFinder">🔗 View Repository</a>
+<a href="[YOUR_TollPlazaFinder_REPO_LINK](https://github.com/Wantstocode/TollPlazaFinder)">🔗 View Repository</a>
 </p>
 
 </td>
