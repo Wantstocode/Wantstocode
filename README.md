@@ -3,9 +3,9 @@
 
 <p align="center">
 💼 <b>Java Engineer @ HCLTech</b> focused on scalable backend systems and clean architecture.<br>
-⚙️ Specialized in <b>Spring Boot, Microservices, REST APIs, Cloud (AWS/GCP)</b> & database-driven apps.<br>
+🖥️ Working with Spring Boot, Microservices, REST APIs, Cloud Platforms (AWS/GCP) & database-driven applications.
 🤖 Exploring <b>Generative AI integration</b> to build smarter, production-ready solutions.<br>
-📈 Strong interest in system design, performance optimization & software quality engineering.
+🧠 Passionate about system design, performance optimization & software quality engineering.
 </p>
 
 <h3 align="left">Connect with me:</h3>
