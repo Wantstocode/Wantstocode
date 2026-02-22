@@ -69,3 +69,74 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </a>
 </p>
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+<table>
+<tr>
+<td width="50%">
+
+<h4>🛒 FreshNet – Online Grocery Platform</h4>
+
+<p>
+Secure full-stack Spring Boot application with OAuth2 authentication, role-based access control, and production-style database design.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth2-4285F4?style=flat&logo=google&logoColor=white"/>
+</p>
+
+<p>
+<a href="YOUR_FRESHNET_REPO_LINK">🔗 View Repository</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h4>⚡ Microservices E-Commerce System</h4>
+
+<p>
+Event-driven microservices architecture with Kafka, Eureka, API Gateway, Keycloak security, Docker deployment, and monitoring.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keycloak-000000?style=flat"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+</p>
+
+<p>
+<a href="YOUR_MICROSERVICE_REPO_LINK">🔗 View Repository</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h4>🛣️ Toll Plaza Finder API</h4>
+
+<p>
+Spring Boot backend service identifying toll plazas between Indian pincodes using routing APIs, PostgreSQL spatial queries, Redis caching, and Swagger docs.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
+</p>
+
+<p>
+<a href="https://github.com/Wantstocode/TollPlazaFinder">🔗 View Repository</a>
+</p>
+
+</td>
+</tr>
+</table>
