@@ -55,7 +55,7 @@ Secure full-stack Spring Boot application with OAuth2 authentication, role-based
 <h4>⚡ Microservices E-Commerce System</h4>
 
 <p>
-Event-driven microservices architecture with Kafka, Eureka, API Gateway, Keycloak security, Docker deployment, and monitoring.
+An event-driven microservices architecture comprising 5 independent services using Kafka, Eureka, API Gateway, and Keycloak for secure communication, containerized with Docker and integrated with monitoring solutions.
 </p>
 
 <p>
